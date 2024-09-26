@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Pokemusic Taste
+Objectively correct insight into what kind of music starter Pokemon enjoy.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--aem-edge-delivery-demo--danielvbarnard.hlx.page/
+- Live: https://main--aem-edge-delivery-demo--danielvbarnard.hlx.live/
 
 ## Installation
 
